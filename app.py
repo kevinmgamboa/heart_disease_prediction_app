@@ -9,7 +9,7 @@ import pickle
 
 path = os.getcwd()
 
-with open('Models/pickle_MLP_model.pkl', 'rb') as f:
+with open('Models/pickle_LR_model.pkl', 'rb') as f:
     logistic = pickle.load(f)
 
 with open('Models/pickle_MLP_model.pkl', 'rb') as f:
