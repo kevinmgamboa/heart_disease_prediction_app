@@ -6,3 +6,6 @@ This exercise is divided in three steps:
 1. Analysing the Heart Disease UCI dataset, building different models using the sklearn API, selecting the best model and saving this one into a .pkl file for deployment.
 2. Deploying the model into the web app.
 3. The third step was to Dockerized this Flask application.
+
+
+![](images/app.png)
